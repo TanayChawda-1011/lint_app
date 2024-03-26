@@ -4,8 +4,8 @@ import '../globals.css';
 import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata = {
-    title: "Alumni Portal",
-    description: "A Next.js 13 AP Shah Alumni Portal Application",
+    title: "Lint",
+    description: "A Next.js 13 Lint Application",
 }
 
 const inter = Inter({ subsets: ["latin"] })
